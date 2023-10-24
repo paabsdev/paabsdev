@@ -6,12 +6,14 @@
 I am passionate about creating seamless and visually appealing user interfaces that elevate the overall user experience. My journey into the world of technology is fueled by a desire to blend creativity with functionality.
 
 ## 🌱 Currently Learning
-- Frontend Development Technologies (HTML, CSS, JavaScript)
+- Frontend Development Technologies (HTML, CSS, JavaScript, React)
+- Version Control System (Git) 
 - UI/UX Design Principles
 - Responsive Web Design
 
 ## 💼 Skills
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, React
+- Version Control System (Git)
 - UI/UX Design Tools (Adobe XD, Figma)
 - Responsive and Mobile Design
 
