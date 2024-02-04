@@ -1,4 +1,4 @@
-# Pablo Ruiz Roldán | Frontend Developer & UI/UX Designer
+# Pablo Ruiz Roldán | FullStack Designer
 
 👋 Hello, I'm Pablo, a 21-year-old aspiring Frontend Developer and UI/UX Designer currently honing my skills through dedicated study.
 
