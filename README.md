@@ -1,18 +1,17 @@
 # Pablo Ruiz Roldán | FullStack Designer
 
-👋 Hello, I'm Pablo, a 21-year-old aspiring Frontend Developer and UI/UX Designer currently honing my skills through dedicated study.
+👋 Hello, I'm Pablo, a 22-year-old aspiring FullStack Designer currently honing my skills through dedicated study.
 
 ## About Me
 I am passionate about creating seamless and visually appealing user interfaces that elevate the overall user experience. My journey into the world of technology is fueled by a desire to blend creativity with functionality.
 
 ## 🌱 Currently Learning
-- Frontend Development Technologies (HTML, CSS, JavaScript, React)
-- Version Control System (Git) 
-- UI/UX Design Principles
+- Frontend Development Technologies (JavaScript and React)
+- Version Control System (Git)
 - Responsive Web Design
 
 ## 💼 Skills
-- HTML5, CSS3, JavaScript, React
+- HTML5, CSS3, Tailwind CSS, JavaScript and React
 - Version Control System (Git)
 - UI/UX Design Tools (Adobe XD, Figma)
 - Responsive and Mobile Design
